@@ -36,7 +36,6 @@ def job():
 # 毎日19:00に実行
 schedule.every().day.at("19:00").do(job)
 
-
 while True:
     schedule.run_pending()
     # スリープごとに確認
