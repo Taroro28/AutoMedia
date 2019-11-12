@@ -8,7 +8,7 @@ Automation programs for some media
 
 Automatically retweet and like my today's tweet at the choosed time every day.
 
-### Library
+### Requirement
     Python   3.7.4
     tweepy   3.8.0  
     schedule 0.6.0
