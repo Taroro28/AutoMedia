@@ -1,4 +1,5 @@
 # AutoMedia
+様々なメディアの運用の自動化プログラム
 Automation programs for some media
 
 ## Twitter
