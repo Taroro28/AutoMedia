@@ -11,7 +11,7 @@ auth = tweepy.OAuthHandler(CK, CS)
 auth.set_access_token(AT, ATS)
 api = tweepy.API(auth)
 
-# 自分について
+# my account
 my_api = api.me()
 my_id = my_api.id
 my_screen_name = my_api.screen_name
